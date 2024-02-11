@@ -7,7 +7,7 @@ html {
   height: 100%;
   width: 100%;
   font-family: PatrickHand;
-  font-size: 50px;
+  font-size: 30px;
   color: #2b3d43;
   background-color: #b4c5ce;
   text-align: center;
@@ -25,8 +25,9 @@ h1, .advice {
 }
 
 .button {
+  padding: 10px 10px;
   border-radius: 10px;
-  border: none
+  border: none;
   background-color: #bbd7f2;
   box-shadow: 5px 5px 5px #313a7c;
   border: none;

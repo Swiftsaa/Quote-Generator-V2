@@ -7,7 +7,7 @@ html {
   height: 100%;
   width: 100%;
   font-family: PatrickHand;
-  font-size: 20px;
+  font-size: 50px;
   color: #2b3d43;
   background-color: #b4c5ce;
   text-align: center;
@@ -31,7 +31,7 @@ h1, .advice {
   box-shadow: 5px 5px 5px #313a7c;
   border: none;
   font-family: PatrickHand;
-  font-size: 15px;
+  font-size: 20px;
   transition-duration: .5s;
   cursor: pointer;
 }

@@ -8,8 +8,8 @@ html {
   width: 100%;
   font-family: PatrickHand;
   font-size: 20px;
-  color: #002547;
-  background-color: #b0c0b5;
+  color: #2b3d43;
+  background-color: #b4c5ce;
   text-align: center;
 }
 
@@ -26,6 +26,7 @@ h1, .advice {
 
 .button {
   border-radius: 10px;
+  border: none
   background-color: #bbd7f2;
   box-shadow: 5px 5px 5px #313a7c;
   border: none;

@@ -33,11 +33,12 @@ h1, .advice {
   border: none;
   font-family: PatrickHand;
   font-size: 20px;
+  color: #2b3d43;
   transition-duration: .5s;
   cursor: pointer;
 }
 
 .button:hover {
-  background-color: #6bd3ff; /* Green */
-  color: black;
+  background-color: #2b3d43;
+  color: #bbd7f2;
 }

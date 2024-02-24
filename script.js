@@ -211,7 +211,10 @@ var quotes = ["Don't always do things to benefit others, do something that will 
                  "Even if you don't succeed with this business, you'll still have a good life, so take the risk",
                  "If you want a recipe for unhappiness, spend your time accumulating a lot of money and let your health and relationships deteriorate.",
                  "Stop complaining, start working",
-                 "Once hard work becomes a habit, success becomes a lifestyle"
+                 "Once hard work becomes a habit, success becomes a lifestyle",
+              "Don’t get comfortable",
+              "Whatever you are feeling today will fade away.",
+              "chose discipline over excuses."
 ]
 
 function displayQuote() {

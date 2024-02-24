@@ -214,7 +214,9 @@ var quotes = ["Don't always do things to benefit others, do something that will 
                  "Once hard work becomes a habit, success becomes a lifestyle",
               "Don’t get comfortable",
               "Whatever you are feeling today will fade away.",
-              "chose discipline over excuses."
+              "chose discipline over excuses.",
+              "They don’t see the journey. Only you do.",
+              "There is temporary discomfort in doing the unconventional. There is permanent discomfort in living life as a template."
 ]
 
 function displayQuote() {
